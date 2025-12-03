@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "銃の部品",
+  "base_artist": "PEOPLE 1",
+  "createdAt": "2025-12-03T11:35:09.396672Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "銃の部品",
+      "artist": "PEOPLE 1",
+      "has_synced": true,
+      "path": "select/01_銃の部品_PEOPLE_1.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "銃の部品",
+      "artist": "PEOPLE 1",
+      "has_synced": false,
+      "path": "select/pl_01_銃の部品_PEOPLE_1.txt"
+    }
+  ]
+}
